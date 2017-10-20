@@ -1,2 +1,2 @@
 Git is a  distibute version system.
-GIt  is free.
+GIt  is free under GpL.
